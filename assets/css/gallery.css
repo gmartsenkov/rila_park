@@ -1,0 +1,9 @@
+.gallery {
+    padding-top: 5%;
+    text-align: center;
+}
+.gallery img {
+    max-height: 500px;
+    max-width: 500px;
+    padding: 0px;
+}
