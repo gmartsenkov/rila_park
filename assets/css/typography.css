@@ -1,0 +1,9 @@
+div.content {
+    margin: 5%;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+div.content img {
+    max-width: 100%;
+    overflow: hidden;
+}
