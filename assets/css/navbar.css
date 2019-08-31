@@ -1,0 +1,43 @@
+.navbar {
+    overflow: hidden;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.navbar a {
+    display: inline-block;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: lighter;
+}
+
+.navbar a {
+    color: #2E2E2E;
+}
+
+.navbar a:hover {
+    color: #A4A4A4;
+}
+
+.navbar a.active {
+    color: #A4A4A4;
+}
+
+.landing-page-container .navbar a {
+    color: #A4A4A4;
+}
+
+.landing-page-container .navbar a:hover {
+    color: white;
+}
+
+.landing-page-container .navbar a.active {
+    color: white;
+}
