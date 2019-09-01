@@ -1,0 +1,39 @@
+table.about {
+    text-align: left;
+    padding-top: 2%;
+    padding-left: 5%;
+    margin: 0 auto;
+}
+
+table.about th {
+    padding-right: 20px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical
+}
+
+.contact-container {
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-color: #dddddd;
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    padding: 1% 5% 2%;
+}
+
+.contact-container form {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.inline {
+    display-style: inline;
+}
